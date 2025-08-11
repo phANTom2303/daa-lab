@@ -1,0 +1,35 @@
+Enter test cases : 
+
+Enter N : 
+
+Enter N : 
+
+Enter N : 
+
+Enter N : 
+
+Enter N : 
+
+Best Case Times : 
+0.000002
+0.000002
+0.000024
+0.003563
+0.170922
+
+
+Average Case Times : 
+0.000000
+0.000001
+0.000061
+0.004938
+0.245624
+
+
+Worst Case Times : 
+0.000001
+0.000002
+0.000050
+0.004773
+0.356613
+
