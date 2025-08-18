@@ -29,6 +29,6 @@ int main() {
 
         convertToBinary(arr[i], binary, 31);
 
-        printf("%d = %s", arr[i], binary);
+        printf("\n%d = %s\n", arr[i], binary);
     }
 }
